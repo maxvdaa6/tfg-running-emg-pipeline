@@ -1,0 +1,17 @@
+channel,muscle,leg,abbreviation
+EMG 1,Tibialis anterior,R,TA_r
+EMG 2,Soleus,R,SO_r
+EMG 3,Rectus Femoris,R,RF_r
+EMG 4,Biceps Femoris,R,BF_r
+EMG 5,Tibialis Anterior,L,TA_l
+EMG 6,Medial Gastrocnemius,L,MG_l
+EMG 7,Soleus,L,SO_l
+EMG 8,Vastus Lateralis,L,VL_l
+EMG 9,Rectus Femoris,L,RF_l
+EMG 10,Semitendinosus,L,ST_l
+EMG 11,Biceps Femoris,L,BF_l
+EMG 12,Gluteus Medius,L,GM_l
+EMG 1 bis, Medial Gastrocnemius,R,MG_r
+EMG 2 bis,Vastus Lateralis,R,VL_r
+EMG 3 bis,Semitendinosus,R,ST_r
+EMG 4 bis,Gluteus Medius,R,GM_r

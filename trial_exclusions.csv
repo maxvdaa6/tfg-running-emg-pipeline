@@ -1,0 +1,23 @@
+participant,channel,trial,reason
+p2,EMG 3,all,dead electrode across all trials
+p2,EMG 7,all,extremely high values - likely electrode error SO_l
+p2,EMG 9,003,artefact in trial-003
+p2,EMG 9,006,artefact - RF_l 12km/h_10%
+p2,EMG 6,009,artefact - MG_l 8km/h_0%
+p1,EMG 3,all,dead electrode across all trials
+p1,EMG 4 bis,003,artefact - GM_r 12km/h_10%
+p1,EMG 7,004,artefact - SO_l 12km/h_5%
+p1,EMG 9,all,artefact - RF_l extremely high values across all trials
+p1,EMG 10,all,extremely high values - possible artefact or cross-talk (ST_l)
+p1,EMG 11,008,artefact - BF_l 10km/h_10%
+p1,EMG 11,009,artefact - BF_l 10km/h_5%
+p1,EMG 12,006,artefact - GM_l 10km/h_0%
+p3,EMG 3,all,dead electrode across all trials
+p4,EMG 3,all,dead electrode across all trials
+p4,EMG 2 bis,all,impossible normalisation values - defective baseline (VL_r)
+p4,EMG 8,006,artefact in trial-006
+p4,EMG 8,007,artefact in trial-007
+p4,EMG 9,003,artefact - RF_l 12km/h_10%
+p4,EMG 9,005,artefact - RF_l 8km/h_10%
+p4,EMG 9,006,artefact - RF_l 12km/h_0%
+p4,EMG 10,all,values below baseline during running - displaced electrode (ST_l)
